@@ -1,6 +1,6 @@
 {
   "type": "commonjs",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon server.js"
   }
 }
